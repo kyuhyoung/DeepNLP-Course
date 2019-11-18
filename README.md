@@ -1,5 +1,6 @@
 # Deep NLP Course at ABBYY
 
+
 Deep learning for NLP crash course at ABBYY.
 
 Suggested textbook: [Neural Network Methods in Natural Language Processing by Yoav Goldberg](https://www.amazon.com/Language-Processing-Synthesis-Lectures-Technologies/dp/1627052984)
